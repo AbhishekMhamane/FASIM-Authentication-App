@@ -1,0 +1,2 @@
+include ':FASIM'
+rootProject.name = "QR Scanner"
